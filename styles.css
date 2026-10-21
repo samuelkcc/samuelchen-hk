@@ -1860,7 +1860,7 @@ h2 { font-weight: 600; }
 .project-card:hover { box-shadow: 0 10px 24px #20334815; }
 .project-visual { height: auto; min-height: 0; padding: 0; align-self: start; background: #f4f7fa; border-bottom: 1px solid var(--line); }
 .project-visual > img { display: block; width: 100%; height: auto; object-fit: contain; }
-.art-caption { display: block; position: static; color: var(--ink); border: 0; border-top: 1px solid #d0dbe3; border-radius: 0; background: #ffffffed; padding: 8px 12px; }
+.art-caption { min-height: calc(3em + 17px); line-height: 1.5; display: block; position: static; color: var(--ink); border: 0; border-top: 1px solid #d0dbe3; border-radius: 0; background: #ffffffed; padding: 8px 12px; }
 .tags span { background: #eff4f8; border-color: #d4dfe8; border-radius: 1px; }
 .work-section { border-block-color: #c6d5e0; background: #eaf1f7ed; }
 .case-explorer { border-color: #b6c9d9; border-radius: 3px; }

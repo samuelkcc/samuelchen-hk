@@ -15,7 +15,7 @@ Run `python3 -m http.server 4173` and open `http://127.0.0.1:4173/`. The site is
 - `translations.js`: generated browser translations. Run `node scripts/build-translations.mjs` after editing the locale files.
 - `CNAME` and `.nojekyll`: GitHub Pages configuration.
 
-The cover shows an anonymous gamer from behind. FileMaker uses a female illustrated developer. The work examples are anonymised; do not add employer information, private screenshots or operational data.
+The cover shows an anonymous gamer from behind. Script Bridge For FileMaker uses a female illustrated developer. The project links to https://github.com/samuelkcc/script-bridge and its current artwork is `assets/script-bridge-cover.jpg`. The work examples are anonymised; do not add employer information, private screenshots or operational data.
 
 ## Publish
 
