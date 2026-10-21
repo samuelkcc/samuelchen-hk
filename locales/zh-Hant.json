@@ -45,10 +45,7 @@
     "Desktop app": "桌面應用程式",
     "Inside the project": "了解項目內容",
     "Japanese dialogue → transcription → Cantonese / English script → voice and subtitle tracks. Translations and generated voices need listening and review.": "日語對白 → 語音轉文字 → 廣東話／英語台詞 → 配音與字幕軌。翻譯和生成語音都需要聆聽、核對及調整。",
-    "Explore Script Bridge For FileMaker on GitHub": "在 GitHub 探索 Script Bridge For FileMaker",
-    "SCRIPT BRIDGE FOR FILEMAKER · CONCEPT ARTWORK": "SCRIPT BRIDGE FOR FILEMAKER · 概念圖",
     "02 / DEVELOPER TOOLS": "02 / 開發工具",
-    "This local Mac app can draft scripts with optional on-device Qwen AI, or accept text from another AI tool. Review and validate the draft, then convert it into native FileMaker clipboard steps before you paste.": "這個在 Mac 本機運行的工具，可透過選用的本機 Qwen AI 草擬腳本，亦可接收其他 AI 工具產生的文字。審閱並驗證草稿後，便可轉換成 FileMaker 原生剪貼簿步驟，再自行貼上。",
     "Spending more time shaping a useful script and less time copying the same steps by hand.": "把更多時間放在完善實用腳本，少花時間逐步重複抄寫。",
     "Local conversion": "本機轉換",
     "Explore the project": "探索項目",
@@ -158,7 +155,11 @@
     "Public beta": "公開測試版",
     "View the hobby room cover at full size": "查看完整大小的興趣工作室封面",
     "PLAYER WORKSPACE": "玩家工作室",
-    "A back-view illustration of a short-haired gamer at an anime-editing desk overlooking Hong Kong harbour, surrounded by retro consoles, handhelds and an HPI RC hobby area.": "插畫中的短髮玩家以背影入鏡，面向動畫剪輯螢幕，窗外是香港海港，旁邊有復古遊戲機、掌機與 HPI 遙控車工作區。"
+    "A back-view illustration of a short-haired gamer at an anime-editing desk overlooking Hong Kong harbour, surrounded by retro consoles, handhelds and an HPI RC hobby area.": "插畫中的短髮玩家以背影入鏡，面向動畫剪輯螢幕，窗外是香港海港，旁邊有復古遊戲機、掌機與 HPI 遙控車工作區。",
+    "Explore Script Bridge use with FileMaker on GitHub": "在 GitHub 探索 Script Bridge use with FileMaker",
+    "SCRIPT BRIDGE USE WITH FILEMAKER · CONCEPT ARTWORK": "SCRIPT BRIDGE USE WITH FILEMAKER · 概念圖",
+    "Script Bridge is a cross-platform app for Mac and Windows, for use with FileMaker. Draft scripts with optional on-device Qwen AI, or bring in text from another AI tool. Review and validate the draft, then convert it into native FileMaker clipboard steps before you paste.": "Script Bridge 是可在 Mac 與 Windows 上運行、配合 FileMaker 使用的跨平台應用程式。你可選用本機 Qwen AI 草擬腳本，亦可接收其他 AI 工具產生的文字。審閱並驗證草稿後，便可轉換成 FileMaker 原生剪貼簿步驟，再自行貼上。",
+    "Script Bridge use with FileMaker": "Script Bridge，配合 FileMaker 使用"
   },
   "cases": {
     "office": {
